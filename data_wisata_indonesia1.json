@@ -1,0 +1,1712 @@
+[
+  {
+    "nama": "Kuala Pasai",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Aceh",
+    "provinsi": "Aceh",
+    "lokasi": "Aceh",
+    "long": "97.2263406",
+    "lang": "5.1520631"
+  },
+  {
+    "nama": "gaya highland sign hollywood style",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Aceh",
+    "provinsi": "Aceh",
+    "lokasi": "Aceh",
+    "long": "96.8534082",
+    "lang": "4.6122083"
+  },
+  {
+    "nama": "Eko Wisata Payani",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Aceh",
+    "provinsi": "Aceh",
+    "lokasi": "BIreuen",
+    "long": "96.8321084",
+    "lang": "5.1932986"
+  },
+  {
+    "nama": "Simpang Air",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Aceh",
+    "provinsi": "Aceh",
+    "lokasi": "Aceh",
+    "long": "97.2275515",
+    "lang": "3.9681509"
+  },
+  {
+    "nama": "Bivak 1 Panorama",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Aceh",
+    "provinsi": "Aceh",
+    "lokasi": "Aceh",
+    "long": "97.2193104",
+    "lang": "3.9617531"
+  },
+  {
+    "nama": "Museum Daerah Sumatera Utara",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Sumatera Utara",
+    "provinsi": "Sumatera Utara",
+    "lokasi": "Medan",
+    "long": "98.6962956",
+    "lang": "3.5679356"
+  },
+  {
+    "nama": "Taman Budaya",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Sumatera Utara",
+    "provinsi": "Sumatera Utara",
+    "lokasi": "Sumatera Utara",
+    "long": "98.6813962",
+    "lang": "3.5995092"
+  },
+  {
+    "nama": "JJS Kanal",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sumatera Utara",
+    "provinsi": "Sumatera Utara",
+    "lokasi": "Sumatera Utara",
+    "long": "98.691408",
+    "lang": "3.5318625"
+  },
+  {
+    "nama": "Puncak",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sumatera Utara",
+    "provinsi": "Sumatera Utara",
+    "lokasi": "Sumatera Utara",
+    "long": "98.1197885",
+    "lang": "3.5512132"
+  },
+  {
+    "nama": "Museum Huta Bolon Simanindo",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Sumatera Utara",
+    "provinsi": "Sumatera Utara",
+    "lokasi": "Sumatera Utara",
+    "long": "98.7441232",
+    "lang": "2.7523751"
+  },
+  {
+    "nama": "Fort de Kock",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sumatera Barat",
+    "provinsi": "Sumatera Barat",
+    "lokasi": "Sumatera Barat",
+    "long": "100.3677425",
+    "lang": "-0.3004251"
+  },
+  {
+    "nama": "Kelok 9",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sumatera Barat",
+    "provinsi": "Sumatera Barat",
+    "lokasi": "Sumatera Barat",
+    "long": "100.6978493",
+    "lang": "-0.0681393"
+  },
+  {
+    "nama": "Panorama Danau Kembar",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sumatera Barat",
+    "provinsi": "Sumatera Barat",
+    "lokasi": "Sumatera Barat",
+    "long": "100.7399131",
+    "lang": "-1.0443746"
+  },
+  {
+    "nama": "Real Equator crossing",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sumatera Barat",
+    "provinsi": "Sumatera Barat",
+    "lokasi": "Sumatera Barat",
+    "long": "100.2202403",
+    "lang": "-3e-07"
+  },
+  {
+    "nama": "Palace Replica",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sumatera Barat",
+    "provinsi": "Sumatera Barat",
+    "lokasi": "Sumatera Barat",
+    "long": "100.6209108",
+    "lang": "-0.4720712"
+  },
+  {
+    "nama": "Danau Buatan",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Riau",
+    "provinsi": "Riau",
+    "lokasi": "Riau",
+    "long": "101.4753374",
+    "lang": "0.5840437"
+  },
+  {
+    "nama": "Agropuro Multifarm & Outbound Adventure",
+    "jenis wisata": "Wisata Petualangan",
+    "deskripsi": "Tempat wisata menarik di Riau",
+    "provinsi": "Riau",
+    "lokasi": "Riau",
+    "long": "101.4186061",
+    "lang": "0.5828665"
+  },
+  {
+    "nama": "Pusat Latihan Gajah Riau",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Riau",
+    "provinsi": "Riau",
+    "lokasi": "Riau",
+    "long": "101.4116627",
+    "lang": "0.7234307"
+  },
+  {
+    "nama": "Taman Hutan Raya Sultan Syarif Hashim",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Riau",
+    "provinsi": "Riau",
+    "lokasi": "Riau",
+    "long": "101.4284307",
+    "lang": "0.6759188"
+  },
+  {
+    "nama": "Tugu Zapin 0 KM Pekanbaru",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Riau",
+    "provinsi": "Riau",
+    "lokasi": "Riau",
+    "long": "101.4474419",
+    "lang": "0.5176644"
+  },
+  {
+    "nama": "Bonsai Garden",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kepulauan Riau",
+    "provinsi": "Kepulauan Riau",
+    "lokasi": "Kepulauan Riau",
+    "long": "103.7300601",
+    "lang": "1.3382963"
+  },
+  {
+    "nama": "Kampung Belungkor",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kepulauan Riau",
+    "provinsi": "Kepulauan Riau",
+    "lokasi": "Kepulauan Riau",
+    "long": "104.0691936",
+    "lang": "1.4548514"
+  },
+  {
+    "nama": "Bukit Timah Nature Reserve Visitor Centre",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kepulauan Riau",
+    "provinsi": "Kepulauan Riau",
+    "lokasi": "Singapore",
+    "long": "103.7766252",
+    "lang": "1.3483134"
+  },
+  {
+    "nama": "Lower Peirce Trail",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kepulauan Riau",
+    "provinsi": "Kepulauan Riau",
+    "lokasi": "Kepulauan Riau",
+    "long": "103.8261899",
+    "lang": "1.3760477"
+  },
+  {
+    "nama": "Casuarina Entrance",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kepulauan Riau",
+    "provinsi": "Kepulauan Riau",
+    "lokasi": "Kepulauan Riau",
+    "long": "103.8262905",
+    "lang": "1.376062"
+  },
+  {
+    "nama": "Air Panas Geragai",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "#SURVEYGLAM ##GLAMBANDUNG2023",
+    "provinsi": "Jambi",
+    "lokasi": "Jambi",
+    "long": "103.6771568",
+    "lang": "-1.1472972"
+  },
+  {
+    "nama": "Lubuk Larangan Gelanggang",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jambi",
+    "provinsi": "Jambi",
+    "lokasi": "Jambi",
+    "long": "102.9680238",
+    "lang": "-1.118013"
+  },
+  {
+    "nama": "Air Terjun Pelabian",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jambi",
+    "provinsi": "Jambi",
+    "lokasi": "Jambi",
+    "long": "102.959056",
+    "lang": "-1.1218999"
+  },
+  {
+    "nama": "Taman Rimbo",
+    "jenis wisata": "Wisata Hiburan",
+    "deskripsi": "Tempat wisata menarik di Jambi",
+    "provinsi": "Jambi",
+    "lokasi": "Jambi",
+    "long": "103.6459928",
+    "lang": "-1.6266271"
+  },
+  {
+    "nama": "Museum Perjuangan Rakyat Jambi",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Jambi",
+    "provinsi": "Jambi",
+    "lokasi": "Jambi",
+    "long": "103.606836",
+    "lang": "-1.5963425"
+  },
+  {
+    "nama": "Museum Sultan Mahmud Badaruddin II",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Sumatera Selatan",
+    "provinsi": "Sumatera Selatan",
+    "lokasi": "Sumatera Selatan",
+    "long": "104.7610612",
+    "lang": "-2.9902795"
+  },
+  {
+    "nama": "Hutan Wisata Punti Kayu",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sumatera Selatan",
+    "provinsi": "Sumatera Selatan",
+    "lokasi": "Sumatera Selatan",
+    "long": "104.726152",
+    "lang": "-2.9454032"
+  },
+  {
+    "nama": "DANAU KIBEKAN",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sumatera Selatan",
+    "provinsi": "Sumatera Selatan",
+    "lokasi": "Sumatera Selatan",
+    "long": "104.401859",
+    "lang": "-3.617762"
+  },
+  {
+    "nama": "dekranasda",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sumatera Selatan",
+    "provinsi": "Sumatera Selatan",
+    "lokasi": "Sumatera Selatan",
+    "long": "104.7857454",
+    "lang": "-3.028204"
+  },
+  {
+    "nama": "Tugu Parameswara",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Sumatera Selatan",
+    "provinsi": "Sumatera Selatan",
+    "lokasi": "Sumatera Selatan",
+    "long": "104.7834694",
+    "lang": "-3.0213829"
+  },
+  {
+    "nama": "Hutan Kota Pangkalpinang, Tuatunu",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bangka Belitung",
+    "provinsi": "Bangka Belitung",
+    "lokasi": "Bangka Belitung",
+    "long": "106.0497483",
+    "lang": "-2.0893249"
+  },
+  {
+    "nama": "Tanjung Batu",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bangka Belitung",
+    "provinsi": "Bangka Belitung",
+    "lokasi": "Bangka Belitung",
+    "long": "105.8037441",
+    "lang": "-2.3637358"
+  },
+  {
+    "nama": "Pantai Pasir Padi",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bangka Belitung",
+    "provinsi": "Bangka Belitung",
+    "lokasi": "Bangka Belitung",
+    "long": "106.1703888",
+    "lang": "-2.1122809"
+  },
+  {
+    "nama": "Patung Bola",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bangka Belitung",
+    "provinsi": "Bangka Belitung",
+    "lokasi": "Bangka Belitung",
+    "long": "106.4782264",
+    "lang": "-2.9913705"
+  },
+  {
+    "nama": "Patung Nanas",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bangka Belitung",
+    "provinsi": "Bangka Belitung",
+    "lokasi": "Bangka Belitung",
+    "long": "106.4700864",
+    "lang": "-3.0038435"
+  },
+  {
+    "nama": "Tapak Paderi",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bengkulu",
+    "provinsi": "Bengkulu",
+    "lokasi": "Bengkulu",
+    "long": "102.2533746",
+    "lang": "-3.7850619"
+  },
+  {
+    "nama": "Pantai Jakat",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bengkulu",
+    "provinsi": "Bengkulu",
+    "lokasi": "Bengkulu",
+    "long": "102.2606734",
+    "lang": "-3.7818528"
+  },
+  {
+    "nama": "Rumah Pengasingan Soekarno",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bengkulu",
+    "provinsi": "Bengkulu",
+    "lokasi": "Bengkulu",
+    "long": "102.2611673",
+    "lang": "-3.7991397"
+  },
+  {
+    "nama": "Musium Provinsi Bengkulu",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Bengkulu",
+    "provinsi": "Bengkulu",
+    "lokasi": "Bengkulu",
+    "long": "102.2873248",
+    "lang": "-3.8156133"
+  },
+  {
+    "nama": "Coal Port",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bengkulu",
+    "provinsi": "Bengkulu",
+    "lokasi": "Bengkulu",
+    "long": "101.82817",
+    "lang": "-3.3740489"
+  },
+  {
+    "nama": "Taman Dwipangga",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Lampung",
+    "provinsi": "Lampung",
+    "lokasi": "Lampung",
+    "long": "105.2619403",
+    "lang": "-5.4455686"
+  },
+  {
+    "nama": "Pantai Sumil",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Lampung",
+    "provinsi": "Lampung",
+    "lokasi": "Lampung",
+    "long": "104.5467477",
+    "lang": "-5.5281527"
+  },
+  {
+    "nama": "Simpang Raden Intan",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Lampung",
+    "provinsi": "Lampung",
+    "lokasi": "Lampung",
+    "long": "104.8642154",
+    "lang": "-4.8426385"
+  },
+  {
+    "nama": "Simpang ke tempat pak Edi Loader",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Lampung",
+    "provinsi": "Lampung",
+    "lokasi": "Lampung",
+    "long": "104.9757602",
+    "lang": "-4.9233662"
+  },
+  {
+    "nama": "SMP N 1 Abung Pekurun",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Lampung",
+    "provinsi": "Lampung",
+    "lokasi": "Lampung",
+    "long": "104.7970205",
+    "lang": "-4.9438328"
+  },
+  {
+    "nama": "Ancol",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di DKI Jakarta",
+    "provinsi": "DKI Jakarta",
+    "lokasi": "DKI Jakarta",
+    "long": "106.8413792",
+    "lang": "-6.125028"
+  },
+  {
+    "nama": "Mekarsari Amazing Tourism Park",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di DKI Jakarta",
+    "provinsi": "DKI Jakarta",
+    "lokasi": "DKI Jakarta",
+    "long": "106.9879952",
+    "lang": "-6.4116044"
+  },
+  {
+    "nama": "Wayang Museum",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di DKI Jakarta",
+    "provinsi": "DKI Jakarta",
+    "lokasi": "West Jakarta",
+    "long": "106.8125091",
+    "lang": "-6.1348145"
+  },
+  {
+    "nama": "Eka Lokasari",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di DKI Jakarta",
+    "provinsi": "DKI Jakarta",
+    "lokasi": "DKI Jakarta",
+    "long": "106.8174702",
+    "lang": "-6.6218886"
+  },
+  {
+    "nama": "Stasiun Tas",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di DKI Jakarta",
+    "provinsi": "DKI Jakarta",
+    "lokasi": "DKI Jakarta",
+    "long": "106.8213525",
+    "lang": "-6.6186481"
+  },
+  {
+    "nama": "Mekarsari Amazing Tourism Park",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Barat",
+    "provinsi": "Jawa Barat",
+    "lokasi": "Jawa Barat",
+    "long": "106.9879952",
+    "lang": "-6.4116044"
+  },
+  {
+    "nama": "Lebakjero",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Barat",
+    "provinsi": "Jawa Barat",
+    "lokasi": "Jawa Barat",
+    "long": "107.8939791",
+    "lang": "-7.0536592"
+  },
+  {
+    "nama": "Pondok Pemandangan",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Barat",
+    "provinsi": "Jawa Barat",
+    "lokasi": "Jawa Barat",
+    "long": "106.980485",
+    "lang": "-6.7673348"
+  },
+  {
+    "nama": "Rawa Denok",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Barat",
+    "provinsi": "Jawa Barat",
+    "lokasi": "Jawa Barat",
+    "long": "106.9868761",
+    "lang": "-6.7570346"
+  },
+  {
+    "nama": "Puncaweuleuh",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Barat",
+    "provinsi": "Jawa Barat",
+    "lokasi": "Jawa Barat",
+    "long": "106.9763428",
+    "lang": "-6.7732692"
+  },
+  {
+    "nama": "Ancol",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Banten",
+    "provinsi": "Banten",
+    "lokasi": "Banten",
+    "long": "106.8413792",
+    "lang": "-6.125028"
+  },
+  {
+    "nama": "Wayang Museum",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Banten",
+    "provinsi": "Banten",
+    "lokasi": "West Jakarta",
+    "long": "106.8125091",
+    "lang": "-6.1348145"
+  },
+  {
+    "nama": "Dungus Iwul Nature reserve",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Banten",
+    "provinsi": "Banten",
+    "lokasi": "Banten",
+    "long": "106.4182127",
+    "lang": "-6.5231753"
+  },
+  {
+    "nama": "Eka Lokasari",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Banten",
+    "provinsi": "Banten",
+    "lokasi": "Banten",
+    "long": "106.8174702",
+    "lang": "-6.6218886"
+  },
+  {
+    "nama": "Stasiun Tas",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Banten",
+    "provinsi": "Banten",
+    "lokasi": "Banten",
+    "long": "106.8213525",
+    "lang": "-6.6186481"
+  },
+  {
+    "nama": "Ketep",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Tengah",
+    "provinsi": "Jawa Tengah",
+    "lokasi": "Jawa Tengah",
+    "long": "110.4476957",
+    "lang": "-7.5820062"
+  },
+  {
+    "nama": "Museum Perjuangan Yogyakarta",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Jawa Tengah",
+    "provinsi": "Jawa Tengah",
+    "lokasi": "Yogyakarta",
+    "long": "110.3718316",
+    "lang": "-7.8164706"
+  },
+  {
+    "nama": "Batu Tulis",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Tengah",
+    "provinsi": "Jawa Tengah",
+    "lokasi": "Jawa Tengah",
+    "long": "110.437726",
+    "lang": "-7.446099"
+  },
+  {
+    "nama": "Gunung Lawu",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Modify date: 2007-02-22",
+    "provinsi": "Jawa Tengah",
+    "lokasi": "Jawa Tengah",
+    "long": "111.1943158",
+    "lang": "-7.627382"
+  },
+  {
+    "nama": "Tourism Center",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Tengah",
+    "provinsi": "Jawa Tengah",
+    "lokasi": "Surakarta",
+    "long": "110.8143406",
+    "lang": "-7.5689515"
+  },
+  {
+    "nama": "Ketep",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di DI Yogyakarta",
+    "provinsi": "DI Yogyakarta",
+    "lokasi": "DI Yogyakarta",
+    "long": "110.4476957",
+    "lang": "-7.5820062"
+  },
+  {
+    "nama": "Museum Perjuangan Yogyakarta",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di DI Yogyakarta",
+    "provinsi": "DI Yogyakarta",
+    "lokasi": "Yogyakarta",
+    "long": "110.3718316",
+    "lang": "-7.8164706"
+  },
+  {
+    "nama": "Batu Tulis",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di DI Yogyakarta",
+    "provinsi": "DI Yogyakarta",
+    "lokasi": "DI Yogyakarta",
+    "long": "110.437726",
+    "lang": "-7.446099"
+  },
+  {
+    "nama": "Bausasran",
+    "jenis wisata": "Wisata Hiburan",
+    "deskripsi": "Tempat wisata menarik di DI Yogyakarta",
+    "provinsi": "DI Yogyakarta",
+    "lokasi": "DI Yogyakarta",
+    "long": "110.3819957",
+    "lang": "-7.7936015"
+  },
+  {
+    "nama": "SIWA NATA RAJA",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di DI Yogyakarta",
+    "provinsi": "DI Yogyakarta",
+    "lokasi": "DI Yogyakarta",
+    "long": "110.382884",
+    "lang": "-7.8252755"
+  },
+  {
+    "nama": "Gunung Bromo",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Last eruption in 2004.",
+    "provinsi": "Jawa Timur",
+    "lokasi": "Jawa Timur",
+    "long": "112.9529769",
+    "lang": "-7.9420691"
+  },
+  {
+    "nama": "Sunrise Point 1",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Timur",
+    "provinsi": "Jawa Timur",
+    "lokasi": "Jawa Timur",
+    "long": "112.9510883",
+    "lang": "-7.9045805"
+  },
+  {
+    "nama": "House of Sampoerna",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Jawa Timur",
+    "provinsi": "Jawa Timur",
+    "lokasi": "Krembangan, East Java, Surabaya",
+    "long": "112.7341461",
+    "lang": "-7.2309923"
+  },
+  {
+    "nama": "Patung Karapan Sapi",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Timur",
+    "provinsi": "Jawa Timur",
+    "lokasi": "Jawa Timur",
+    "long": "112.742264",
+    "lang": "-7.2729404"
+  },
+  {
+    "nama": "Peterongan",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Jawa Timur",
+    "provinsi": "Jawa Timur",
+    "lokasi": "Peterongan",
+    "long": "112.279445",
+    "lang": "-7.5417187"
+  },
+  {
+    "nama": "Vishnu Statue",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bali",
+    "provinsi": "Bali",
+    "lokasi": "Bali",
+    "long": "115.1682183",
+    "lang": "-8.8098072"
+  },
+  {
+    "nama": "Coral View Cafe",
+    "jenis wisata": "Wisata Kuliner",
+    "deskripsi": "Tempat wisata menarik di Bali",
+    "provinsi": "Bali",
+    "lokasi": "Bali",
+    "long": "115.6598117",
+    "lang": "-8.3385652"
+  },
+  {
+    "nama": "Sanur",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bali",
+    "provinsi": "Bali",
+    "lokasi": "Bali",
+    "long": "115.2564626",
+    "lang": "-8.6831728"
+  },
+  {
+    "nama": "Lombok Wisata",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bali",
+    "provinsi": "Bali",
+    "lokasi": "Bali",
+    "long": "115.508546",
+    "lang": "-8.5315394"
+  },
+  {
+    "nama": "Amed",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Bali",
+    "provinsi": "Bali",
+    "lokasi": "Bali",
+    "long": "115.6409359",
+    "lang": "-8.334584"
+  },
+  {
+    "nama": "Wisata Air Lembah Hijau",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Nusa Tenggara Barat",
+    "provinsi": "Nusa Tenggara Barat",
+    "lokasi": "Nusa Tenggara Barat",
+    "long": "116.6004044",
+    "lang": "-8.6355011"
+  },
+  {
+    "nama": "Nanga Na'e",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Nusa Tenggara Barat",
+    "provinsi": "Nusa Tenggara Barat",
+    "lokasi": "Nusa Tenggara Barat",
+    "long": "117.7191662",
+    "lang": "-8.2480223"
+  },
+  {
+    "nama": "Pantai Cemara",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Nusa Tenggara Barat",
+    "provinsi": "Nusa Tenggara Barat",
+    "lokasi": "Nusa Tenggara Barat",
+    "long": "116.5070133",
+    "lang": "-8.8893538"
+  },
+  {
+    "nama": "pusuk pass viewpoint",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Nusa Tenggara Barat",
+    "provinsi": "Nusa Tenggara Barat",
+    "lokasi": "Nusa Tenggara Barat",
+    "long": "116.5381094",
+    "lang": "-8.4152537"
+  },
+  {
+    "nama": "pohon purba lian langka big trees",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Nusa Tenggara Barat",
+    "provinsi": "Nusa Tenggara Barat",
+    "lokasi": "Nusa Tenggara Barat",
+    "long": "116.6749255",
+    "lang": "-8.4724257"
+  },
+  {
+    "nama": "Compang Ruteng",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Nusa Tenggara Timur",
+    "provinsi": "Nusa Tenggara Timur",
+    "lokasi": "Nusa Tenggara Timur",
+    "long": "120.4460336",
+    "lang": "-8.6118805"
+  },
+  {
+    "nama": "Monkey Feeding area",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Nusa Tenggara Timur",
+    "provinsi": "Nusa Tenggara Timur",
+    "lokasi": "Nusa Tenggara Timur",
+    "long": "121.8140631",
+    "lang": "-8.7689753"
+  },
+  {
+    "nama": "Patung Renungan Bung Karno",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Nusa Tenggara Timur",
+    "provinsi": "Nusa Tenggara Timur",
+    "lokasi": "Nusa Tenggara Timur",
+    "long": "121.6436847",
+    "lang": "-8.8436125"
+  },
+  {
+    "nama": "Pantai Ria",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Nusa Tenggara Timur",
+    "provinsi": "Nusa Tenggara Timur",
+    "lokasi": "Nusa Tenggara Timur",
+    "long": "121.6427884",
+    "lang": "-8.8433795"
+  },
+  {
+    "nama": "Gurusina Traditional Village",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Nusa Tenggara Timur",
+    "provinsi": "Nusa Tenggara Timur",
+    "lokasi": "Nusa Tenggara Timur",
+    "long": "120.9906956",
+    "lang": "-8.8956188"
+  },
+  {
+    "nama": "Temajo View",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Temajo View",
+    "provinsi": "Kalimantan Barat",
+    "lokasi": "Kalimantan Barat",
+    "long": "108.9466953",
+    "lang": "0.4150343"
+  },
+  {
+    "nama": "BaseCamp",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Barat",
+    "provinsi": "Kalimantan Barat",
+    "lokasi": "Kalimantan Barat",
+    "long": "109.3649282",
+    "lang": "-0.0599553"
+  },
+  {
+    "nama": "TAMAN DIGULIS",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Barat",
+    "provinsi": "Kalimantan Barat",
+    "lokasi": "Kalimantan Barat",
+    "long": "109.3499319",
+    "lang": "-0.055578"
+  },
+  {
+    "nama": "Rumah Kades Sungai Lobang",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Barat",
+    "provinsi": "Kalimantan Barat",
+    "lokasi": "Kalimantan Barat",
+    "long": "109.7304199",
+    "lang": "0.5913943"
+  },
+  {
+    "nama": "Komplek Royal Mansion",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Barat",
+    "provinsi": "Kalimantan Barat",
+    "lokasi": "Kalimantan Barat",
+    "long": "109.3707185",
+    "lang": "-0.0470885"
+  },
+  {
+    "nama": "Sebangau Viewpoint",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Tengah",
+    "provinsi": "Kalimantan Tengah",
+    "lokasi": "Kalimantan Tengah",
+    "long": "113.8303174",
+    "lang": "-2.293849"
+  },
+  {
+    "nama": "Handicraft Souvenir",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Tengah",
+    "provinsi": "Kalimantan Tengah",
+    "lokasi": "Kalimantan Tengah",
+    "long": "112.9591924",
+    "lang": "-1.5902829"
+  },
+  {
+    "nama": "Mirah Kalanaman Village",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Tengah",
+    "provinsi": "Kalimantan Tengah",
+    "lokasi": "Kalimantan Tengah",
+    "long": "112.9638091",
+    "lang": "-1.5906374"
+  },
+  {
+    "nama": "BBG GROUP MESS",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Tengah",
+    "provinsi": "Kalimantan Tengah",
+    "lokasi": "Kalimantan Tengah",
+    "long": "113.093778",
+    "lang": "-1.3197145"
+  },
+  {
+    "nama": "Mess Mentari DG",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Tengah",
+    "provinsi": "Kalimantan Tengah",
+    "lokasi": "Kalimantan Tengah",
+    "long": "113.0921959",
+    "lang": "-1.3221187"
+  },
+  {
+    "nama": "Tugu Batanggaring",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "lokasi": "Kalimantan Selatan",
+    "long": "114.4040843",
+    "lang": "-2.9784307"
+  },
+  {
+    "nama": "Wisata Gunung Kayangan",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "lokasi": "Kalimantan Selatan",
+    "long": "114.7514308",
+    "lang": "-3.7170033"
+  },
+  {
+    "nama": "Museum Lewu Hante",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "lokasi": "Kalimantan Selatan",
+    "long": "115.2401583",
+    "lang": "-2.1986437"
+  },
+  {
+    "nama": "Danau Baruh Bahinu Dalam",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "lokasi": "Kalimantan Selatan",
+    "long": "115.5269127",
+    "lang": "-2.3735557"
+  },
+  {
+    "nama": "Taman Satwa Banjarmasin Bungas",
+    "jenis wisata": "Wisata Hiburan",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "lokasi": "Kalimantan Selatan",
+    "long": "114.6033845",
+    "lang": "-3.3080067"
+  },
+  {
+    "nama": "Museum Perjuangan Sanga-Sanga",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Timur",
+    "provinsi": "Kalimantan Timur",
+    "lokasi": "Kalimantan Timur",
+    "long": "117.23331",
+    "lang": "-0.6588425"
+  },
+  {
+    "nama": "Menara Asmaul Husna",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Timur",
+    "provinsi": "Kalimantan Timur",
+    "lokasi": "Kalimantan Timur",
+    "long": "117.1208752",
+    "lang": "-0.5031398"
+  },
+  {
+    "nama": "Kawasan Konservasi Manggrove",
+    "jenis wisata": "Wisata Hiburan",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Timur",
+    "provinsi": "Kalimantan Timur",
+    "lokasi": "Kalimantan Timur",
+    "long": "116.8241833",
+    "lang": "-1.2266716"
+  },
+  {
+    "nama": "Museum Purbakala Muara Kaman",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Timur",
+    "provinsi": "Kalimantan Timur",
+    "lokasi": "Kalimantan Timur",
+    "long": "116.7259386",
+    "lang": "-0.1471367"
+  },
+  {
+    "nama": "Makam Adji Kemala",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Timur",
+    "provinsi": "Kalimantan Timur",
+    "lokasi": "Kalimantan Timur",
+    "long": "116.8083524",
+    "lang": "-1.2732247"
+  },
+  {
+    "nama": "Hot Water Fall",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Utara",
+    "provinsi": "Kalimantan Utara",
+    "lokasi": "Kalimantan Utara",
+    "long": "116.3784318",
+    "lang": "3.4490882"
+  },
+  {
+    "nama": "Perkemahan",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Utara",
+    "provinsi": "Kalimantan Utara",
+    "lokasi": "Kalimantan Utara",
+    "long": "116.3783031",
+    "lang": "3.4497307"
+  },
+  {
+    "nama": "pa dapur river",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Utara",
+    "provinsi": "Kalimantan Utara",
+    "lokasi": "Kalimantan Utara",
+    "long": "115.4921735",
+    "lang": "3.7296955"
+  },
+  {
+    "nama": "Patung Buaya",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Utara",
+    "provinsi": "Kalimantan Utara",
+    "lokasi": "Kalimantan Utara",
+    "long": "116.6240768",
+    "lang": "3.5540259"
+  },
+  {
+    "nama": "Semolon",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Kalimantan Utara",
+    "provinsi": "Kalimantan Utara",
+    "lokasi": "Kalimantan Utara",
+    "long": "116.3792816",
+    "lang": "3.4496844"
+  },
+  {
+    "nama": "Volcano Resort",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Utara",
+    "provinsi": "Sulawesi Utara",
+    "lokasi": "Sulawesi Utara",
+    "long": "124.8281776",
+    "lang": "1.3491026"
+  },
+  {
+    "nama": "Happy Flower",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Utara",
+    "provinsi": "Sulawesi Utara",
+    "lokasi": "Sulawesi Utara",
+    "long": "124.8277125",
+    "lang": "1.3494678"
+  },
+  {
+    "nama": "Auditorium Bukit Inspirasi",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Utara",
+    "provinsi": "Sulawesi Utara",
+    "lokasi": "Sulawesi Utara",
+    "long": "124.837796",
+    "lang": "1.3378463"
+  },
+  {
+    "nama": "Tinoor",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Utara",
+    "provinsi": "Sulawesi Utara",
+    "lokasi": "Sulawesi Utara",
+    "long": "124.8338161",
+    "lang": "1.3867973"
+  },
+  {
+    "nama": "Tomohon View Point",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Utara",
+    "provinsi": "Sulawesi Utara",
+    "lokasi": "Sulawesi Utara",
+    "long": "124.8319707",
+    "lang": "1.3770905"
+  },
+  {
+    "nama": "Fort Otanaha",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Gorontalo",
+    "provinsi": "Gorontalo",
+    "lokasi": "Gorontalo",
+    "long": "123.0083498",
+    "lang": "0.5486012"
+  },
+  {
+    "nama": "For going to LOVE ISLAND",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Gorontalo",
+    "provinsi": "Gorontalo",
+    "lokasi": "Gorontalo",
+    "long": "122.3045535",
+    "lang": "0.490464"
+  },
+  {
+    "nama": "For going to LOVE ISLAND",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Gorontalo",
+    "provinsi": "Gorontalo",
+    "lokasi": "Gorontalo",
+    "long": "122.3045662",
+    "lang": "0.4904626"
+  },
+  {
+    "nama": "Ferry - Bumbulan",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Gorontalo",
+    "provinsi": "Gorontalo",
+    "lokasi": "Gorontalo",
+    "long": "122.1134",
+    "lang": "0.4873002"
+  },
+  {
+    "nama": "Kawasan Batu Pinagut",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Gorontalo",
+    "provinsi": "Gorontalo",
+    "lokasi": "Gorontalo",
+    "long": "123.2695187",
+    "lang": "0.9187938"
+  },
+  {
+    "nama": "Tanjung Api (natural fire)",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Tengah",
+    "provinsi": "Sulawesi Tengah",
+    "lokasi": "Sulawesi Tengah",
+    "long": "121.6223001",
+    "lang": "-0.8154928"
+  },
+  {
+    "nama": "Banua old houses",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Tengah",
+    "provinsi": "Sulawesi Tengah",
+    "lokasi": "Sulawesi Tengah",
+    "long": "120.6329333",
+    "lang": "-1.767735"
+  },
+  {
+    "nama": "Pamona Cave",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Tengah",
+    "provinsi": "Sulawesi Tengah",
+    "lokasi": "Sulawesi Tengah",
+    "long": "120.6390147",
+    "lang": "-1.7635635"
+  },
+  {
+    "nama": "Wisata Alam Permadian Malotong",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Tengah",
+    "provinsi": "Sulawesi Tengah",
+    "lokasi": "Sulawesi Tengah",
+    "long": "121.5227476",
+    "lang": "-0.8858631"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Sulawesi Tengah",
+    "lokasi": "Palu",
+    "long": "119.8707",
+    "lang": "-0.8917"
+  },
+  {
+    "nama": "Londa",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Barat",
+    "provinsi": "Sulawesi Barat",
+    "lokasi": "Sulawesi Barat",
+    "long": "119.875886",
+    "lang": "-3.0149146"
+  },
+  {
+    "nama": "Lemo",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Barat",
+    "provinsi": "Sulawesi Barat",
+    "lokasi": "Sulawesi Barat",
+    "long": "119.8775871",
+    "lang": "-3.0414168"
+  },
+  {
+    "nama": "Burial caves Londa",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Barat",
+    "provinsi": "Sulawesi Barat",
+    "lokasi": "Sulawesi Barat",
+    "long": "119.8764741",
+    "lang": "-3.0161556"
+  },
+  {
+    "nama": "Natural swimming pool",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Barat",
+    "provinsi": "Sulawesi Barat",
+    "lokasi": "Sulawesi Barat",
+    "long": "119.8874864",
+    "lang": "-3.0350765"
+  },
+  {
+    "nama": "Kolam Alam Tilangnga'",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Barat",
+    "provinsi": "Sulawesi Barat",
+    "lokasi": "Sulawesi Barat",
+    "long": "119.8873106",
+    "lang": "-3.035305"
+  },
+  {
+    "nama": "kawasan birtariakassi",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Selatan",
+    "provinsi": "Sulawesi Selatan",
+    "lokasi": "Sulawesi Selatan",
+    "long": "119.6286061",
+    "lang": "-5.6242837"
+  },
+  {
+    "nama": "Gedung Mulo",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Selatan",
+    "provinsi": "Sulawesi Selatan",
+    "lokasi": "Sulawesi Selatan",
+    "long": "119.4155993",
+    "lang": "-5.1455841"
+  },
+  {
+    "nama": "Wisata Kebun Stoberi",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Selatan",
+    "provinsi": "Sulawesi Selatan",
+    "lokasi": "Sulawesi Selatan",
+    "long": "119.8892853",
+    "lang": "-5.240274"
+  },
+  {
+    "nama": "Wisata Kebun Stoberi",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Selatan",
+    "provinsi": "Sulawesi Selatan",
+    "lokasi": "Sulawesi Selatan",
+    "long": "119.8910873",
+    "lang": "-5.2412381"
+  },
+  {
+    "nama": "Wisata Kebun Stoberi",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Selatan",
+    "provinsi": "Sulawesi Selatan",
+    "lokasi": "Sulawesi Selatan",
+    "long": "119.8960982",
+    "lang": "-5.2445036"
+  },
+  {
+    "nama": "Pantai taronipa",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Tenggara",
+    "provinsi": "Sulawesi Tenggara",
+    "lokasi": "Sulawesi Tenggara",
+    "long": "122.665906",
+    "lang": "-3.9002451"
+  },
+  {
+    "nama": "Kalomang Beach.",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Tenggara",
+    "provinsi": "Sulawesi Tenggara",
+    "lokasi": "Sulawesi Tenggara",
+    "long": "121.5025529",
+    "lang": "-4.4808306"
+  },
+  {
+    "nama": "Sekretariat Ayo Ke Muna Official",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Ayo Ke Muna Official adalah Organisasi Pemuda yang bergerak di sektor Kebudayaan, Pariwisata dan Hiburan. Awalnya, Ayo Ke Muna Official merupakan apli...",
+    "provinsi": "Sulawesi Tenggara",
+    "lokasi": "Sulawesi Tenggara",
+    "long": "122.7226934",
+    "lang": "-4.8398383"
+  },
+  {
+    "nama": "RUMAH KHALIL IBRAHIM",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Tenggara",
+    "provinsi": "Sulawesi Tenggara",
+    "lokasi": "Sulawesi Tenggara",
+    "long": "122.5061387",
+    "lang": "-3.99787"
+  },
+  {
+    "nama": "Kost Nursyabila",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Sulawesi Tenggara",
+    "provinsi": "Sulawesi Tenggara",
+    "lokasi": "Sulawesi Tenggara",
+    "long": "122.4039535",
+    "lang": "-4.8085297"
+  },
+  {
+    "nama": "Museum Trikora",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Maluku Utara",
+    "provinsi": "Maluku Utara",
+    "lokasi": "Maluku Utara",
+    "long": "128.2956849",
+    "lang": "2.0343944"
+  },
+  {
+    "nama": "Lava rocks",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Maluku Utara",
+    "provinsi": "Maluku Utara",
+    "lokasi": "Maluku Utara",
+    "long": "127.3733376",
+    "lang": "0.8437357"
+  },
+  {
+    "nama": "Lava stones",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Maluku Utara",
+    "provinsi": "Maluku Utara",
+    "lokasi": "Maluku Utara",
+    "long": "127.3668025",
+    "lang": "0.8462994"
+  },
+  {
+    "nama": "Lava stones",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Maluku Utara",
+    "provinsi": "Maluku Utara",
+    "lokasi": "Maluku Utara",
+    "long": "127.3626254",
+    "lang": "0.8484218"
+  },
+  {
+    "nama": "Entrance Batu Angus",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Maluku Utara",
+    "provinsi": "Maluku Utara",
+    "lokasi": "Maluku Utara",
+    "long": "127.36468",
+    "lang": "0.8446901"
+  },
+  {
+    "nama": "Tebing Makariki",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Maluku",
+    "provinsi": "Maluku",
+    "lokasi": "Maluku",
+    "long": "129.5506074",
+    "lang": "-3.2973863"
+  },
+  {
+    "nama": "Nini Fala",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Maluku",
+    "provinsi": "Maluku",
+    "lokasi": "Maluku",
+    "long": "129.5527377",
+    "lang": "-3.2699433"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Maluku",
+    "lokasi": "Ambon",
+    "long": "128.1900",
+    "lang": "-3.6954"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Maluku",
+    "lokasi": "Ambon",
+    "long": "128.1900",
+    "lang": "-3.6954"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Maluku",
+    "lokasi": "Ambon",
+    "long": "128.1900",
+    "lang": "-3.6954"
+  },
+  {
+    "nama": "small stalactite cave",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Barat",
+    "provinsi": "Papua Barat",
+    "lokasi": "Papua Barat",
+    "long": "132.5664366",
+    "lang": "-0.9051716"
+  },
+  {
+    "nama": "cut in the rock, inlforest where the stream cuts the road",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Barat",
+    "provinsi": "Papua Barat",
+    "lokasi": "Papua Barat",
+    "long": "132.7815516",
+    "lang": "-0.8712116"
+  },
+  {
+    "nama": "bridge view",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Barat",
+    "provinsi": "Papua Barat",
+    "lokasi": "Papua Barat",
+    "long": "132.5686032",
+    "lang": "-0.960963"
+  },
+  {
+    "nama": "valley veiw",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Barat",
+    "provinsi": "Papua Barat",
+    "lokasi": "Papua Barat",
+    "long": "132.7237316",
+    "lang": "-0.8911066"
+  },
+  {
+    "nama": "kampung ayapokiar village view",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Barat",
+    "provinsi": "Papua Barat",
+    "lokasi": "Papua Barat",
+    "long": "132.6924022",
+    "lang": "-0.9122494"
+  },
+  {
+    "nama": "Mission Aviation Fellowship",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Tengah",
+    "provinsi": "Papua Tengah",
+    "lokasi": "Papua Tengah",
+    "long": "135.495307",
+    "lang": "-3.3614332"
+  },
+  {
+    "nama": "AMA Associated Mission Aviation",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Tengah",
+    "provinsi": "Papua Tengah",
+    "lokasi": "Papua Tengah",
+    "long": "135.4945866",
+    "lang": "-3.3661116"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Papua Tengah",
+    "lokasi": "Nabire",
+    "long": "135.4970",
+    "lang": "-3.3667"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Papua Tengah",
+    "lokasi": "Nabire",
+    "long": "135.4970",
+    "lang": "-3.3667"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Papua Tengah",
+    "lokasi": "Nabire",
+    "long": "135.4970",
+    "lang": "-3.3667"
+  },
+  {
+    "nama": "Museum Lokabudaya Uncen",
+    "jenis wisata": "Wisata Budaya",
+    "deskripsi": "Tempat wisata menarik di Papua",
+    "provinsi": "Papua",
+    "lokasi": "Papua",
+    "long": "140.6604184",
+    "lang": "-2.6104677"
+  },
+  {
+    "nama": "McArthur",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua",
+    "provinsi": "Papua",
+    "lokasi": "Papua",
+    "long": "140.7054465",
+    "lang": "-2.54174"
+  },
+  {
+    "nama": "Ifar Viewpoint",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua",
+    "provinsi": "Papua",
+    "lokasi": "Papua",
+    "long": "140.5430557",
+    "lang": "-2.5635413"
+  },
+  {
+    "nama": "Tangga Seribu",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua",
+    "provinsi": "Papua",
+    "lokasi": "Papua",
+    "long": "140.4559427",
+    "lang": "-2.5644348"
+  },
+  {
+    "nama": "3 WWII rusty tanks",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua",
+    "provinsi": "Papua",
+    "lokasi": "Papua",
+    "long": "140.7091924",
+    "lang": "-2.5715447"
+  },
+  {
+    "nama": "Subbase Muting 2",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Selatan",
+    "provinsi": "Papua Selatan",
+    "lokasi": "Papua Selatan",
+    "long": "140.6657325",
+    "lang": "-7.3204228"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Papua Selatan",
+    "lokasi": "Merauke",
+    "long": "140.4038",
+    "lang": "-8.4667"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Papua Selatan",
+    "lokasi": "Merauke",
+    "long": "140.4038",
+    "lang": "-8.4667"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Papua Selatan",
+    "lokasi": "Merauke",
+    "long": "140.4038",
+    "lang": "-8.4667"
+  },
+  {
+    "nama": "Tempat tidak ditemukan",
+    "jenis wisata": "",
+    "deskripsi": "",
+    "provinsi": "Papua Selatan",
+    "lokasi": "Merauke",
+    "long": "140.4038",
+    "lang": "-8.4667"
+  },
+  {
+    "nama": "View point on a hill, panorama",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Barat Daya",
+    "provinsi": "Papua Barat Daya",
+    "lokasi": "Papua Barat Daya",
+    "long": "132.2064448",
+    "lang": "-1.2836508"
+  },
+  {
+    "nama": "View point to the lake",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Barat Daya",
+    "provinsi": "Papua Barat Daya",
+    "lokasi": "Papua Barat Daya",
+    "long": "132.1935264",
+    "lang": "-1.2744099"
+  },
+  {
+    "nama": "Framu Campsite",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Barat Daya",
+    "provinsi": "Papua Barat Daya",
+    "lokasi": "Papua Barat Daya",
+    "long": "132.1837299",
+    "lang": "-1.2594168"
+  },
+  {
+    "nama": "Framu Lake",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Barat Daya",
+    "provinsi": "Papua Barat Daya",
+    "lokasi": "Papua Barat Daya",
+    "long": "132.18339",
+    "lang": "-1.2599573"
+  },
+  {
+    "nama": "Ayamaru Lake",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Barat Daya",
+    "provinsi": "Papua Barat Daya",
+    "lokasi": "Papua Barat Daya",
+    "long": "132.1837773",
+    "lang": "-1.2588778"
+  },
+  {
+    "nama": "Waterfall",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Pegunungan",
+    "provinsi": "Papua Pegunungan",
+    "lokasi": "Papua Pegunungan",
+    "long": "138.8938711",
+    "lang": "-4.1164651"
+  },
+  {
+    "nama": "Mumi Jiwika",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Pegunungan",
+    "provinsi": "Papua Pegunungan",
+    "lokasi": "Papua Pegunungan",
+    "long": "138.9462252",
+    "lang": "-3.9637152"
+  },
+  {
+    "nama": "Mata Air Garam",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Salt water spring",
+    "provinsi": "Papua Pegunungan",
+    "lokasi": "Papua Pegunungan",
+    "long": "138.9598215",
+    "lang": "-3.9525176"
+  },
+  {
+    "nama": "Harbor of Sagapu (Distrik Suru-suru)",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Pegunungan",
+    "provinsi": "Papua Pegunungan",
+    "lokasi": "Papua Pegunungan",
+    "long": "138.7020698",
+    "lang": "-4.8973485"
+  },
+  {
+    "nama": "Cerita Anak Hoick",
+    "jenis wisata": "Wisata Alam",
+    "deskripsi": "Tempat wisata menarik di Papua Pegunungan",
+    "provinsi": "Papua Pegunungan",
+    "lokasi": "Papua Pegunungan",
+    "long": "139.3188807",
+    "lang": "-3.8911016"
+  }
+]
