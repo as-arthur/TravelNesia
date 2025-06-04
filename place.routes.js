@@ -19,16 +19,16 @@ const {
   deleteReview,
   searchPlaces,
   toggleFavorite,
-  getDummyPlaces
+  getPlacesFromDataset 
 } = require('../controllers/place.controller');
 
 // Import middleware
 const { protect, authorize } = require('../middlewares/auth.middleware');
 
-// Route dummy
-router.get('/dummy', getDummyPlaces);
+// Route untuk dataset statis dari CSV
+router.get('/dataset', getPlacesFromDataset); 
 
-// Other public routes
+// Public routes
 router.get('/featured', getFeaturedPlaces);
 router.get('/popular', getPopularPlaces);
 router.get('/top-rated', getTopRatedPlaces);

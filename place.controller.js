@@ -6,6 +6,8 @@
 const Place = require('../models/place.model');
 const path = require('path');
 const fs = require('fs');
+const csv = require('csv-parser');
+
 
 // @desc    Get all places
 // @route   GET /api/places
@@ -505,31 +507,41 @@ exports.toggleFavorite = async (req, res, next) => {
 
     res.status(200).json({
       success: true,
-      isFavorite: favoriteIndex === -1, // true if just added, false if removed
+      isFavorite: favoriteIndex === -1, 
       data: place
     });
   } catch (error) {
     next(error);
   }
 };
-// @desc    Get dummy places from local JSON file
-// @route   GET /api/places/dummy
-// @access  Public
-exports.getDummyPlaces = (req, res, next) => {
-  const filePath = path.join(__dirname, '../data/dummyPlaces.json');
+let cachedResults = null;
 
-  fs.readFile(filePath, 'utf8', (err, data) => {
-    if (err) {
-      return next(err);
-    }
-
-    const places = JSON.parse(data);
-    res.status(200).json({
+exports.getPlacesFromDataset = (req, res, next) => {
+  if (cachedResults) {
+    return res.status(200).json({
       success: true,
-      count: places.length,
-      data: places,
+      count: cachedResults.length,
+      data: cachedResults,
     });
-  });
+  }
+
+  const results = [];
+  const csvPath = path.join(__dirname, '../ML/dataset_tempat_final.csv');
+
+  fs.createReadStream(csvPath)
+    .pipe(csv())
+    .on('data', (data) => results.push(data))
+    .on('end', () => {
+      cachedResults = results;
+      res.status(200).json({
+        success: true,
+        count: results.length,
+        data: results,
+      });
+    })
+    .on('error', (err) => {
+      next(err);
+    });
 };
 
 
