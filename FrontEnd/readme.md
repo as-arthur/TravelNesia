@@ -1,0 +1,1 @@
+TravelNesia adalah aplikasi web yang memberikan rekomendasi destinasi wisata Indonesia secara personal kepada pengguna. Aplikasi ini menggunakan teknologi machine learning untuk memberikan saran tempat wisata berdasarkan preferensi dan riwayat kunjungan pengguna.
