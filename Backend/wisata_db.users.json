@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "68411581bbc9092ef2e5569f"
+  },
+  "name": "Ujang",
+  "email": "ujang@example.com",
+  "password": "$2a$10$sxujWQ.d37A6h7kVKRg4ZeZlPvWebimgdfIUt6LRGqlkgviQ01vKS",
+  "role": "user",
+  "preferences": {
+    "priceRange": {
+      "min": 0,
+      "max": 1000000
+    },
+    "categories": []
+  },
+  "profileImage": "default.jpg",
+  "visitHistory": [],
+  "createdAt": {
+    "$date": "2025-06-05T03:56:49.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68411d4120413ecc40a81939"
+  },
+  "name": "Bintang Sri",
+  "email": "bintangsri123@gmail.com",
+  "password": "$2a$10$.unZSoJ2HNLRlcpJrDTQXOo6MPTxnaRYjziqjHvcG90LGXJB6Ah8a",
+  "role": "user",
+  "preferences": {
+    "priceRange": {
+      "min": 0,
+      "max": 1000000
+    },
+    "categories": []
+  },
+  "profileImage": "default.jpg",
+  "visitHistory": [],
+  "createdAt": {
+    "$date": "2025-06-05T04:29:53.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684123df20413ecc40a8193f"
+  },
+  "name": "Oliv",
+  "email": "oliv@example.com",
+  "password": "$2a$10$gTyKjZHW/vl7voUylSaAteLhWif.VEWI4htaEjQFo7Jf5gVE7c4f.",
+  "role": "user",
+  "preferences": {
+    "priceRange": {
+      "min": 0,
+      "max": 1000000
+    },
+    "categories": []
+  },
+  "profileImage": "default.jpg",
+  "visitHistory": [],
+  "createdAt": {
+    "$date": "2025-06-05T04:58:07.663Z"
+  },
+  "__v": 0
+}]
