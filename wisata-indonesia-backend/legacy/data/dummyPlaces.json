@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pantai Kuta",
+    "location": "Bali",
+    "description": "Pantai terkenal dengan pemandangan sunset yang indah.",
+    "category": "Pantai",
+    "imageUrl": "https://example.com/kuta.jpg"
+  },
+  {
+    "name": "Gunung Bromo",
+    "location": "Jawa Timur",
+    "description": "Gunung berapi aktif yang populer untuk sunrise view.",
+    "category": "Pegunungan",
+    "imageUrl": "https://example.com/bromo.jpg"
+  }
+]

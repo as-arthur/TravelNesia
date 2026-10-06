@@ -1,0 +1,146 @@
+{
+  "_catatan": "Foto di sini diverifikasi otomatis: judul artikel Wikipedia cocok dengan nama destinasi DAN koordinatnya berdekatan. Entri berbentuk array adalah pemetaan lama dari tim (belum terverifikasi). Periksa tautan 'source' bila ragu, hapus entri yang salah lalu jalankan `npm run import`.",
+  "images": {
+    "sulawesi utara|japanese cave": [
+      "https://picture.triptrus.com/image/2014/06/gua-jepang-9.jpeg"
+    ],
+    "sulawesi utara|benteng moraya": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/88/Kabasaran_Minahasa_di_Benteng_Moraya.jpg"
+    ],
+    "sulawesi utara|waruga cemetry": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/20/Waruga_grave2.jpg"
+    ],
+    "sulawesi utara|watu pinabetengan": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/Watu_Pinawetengan_dalam.jpg"
+    ],
+    "sulawesi utara|kantor sinode gmim": [
+      "https://ik.trn.asia/uploads/2022/10/1664944071556.jpeg"
+    ],
+    "jakarta|taman mini indonesia indah (tmii)": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Istana_Anak-anak_Indonesia_TMII_%282025%29_-_img_01.jpg/960px-Istana_Anak-anak_Indonesia_TMII_%282025%29_-_img_01.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Taman Mini Indonesia Indah",
+      "source": "https://id.wikipedia.org/wiki/Taman_Mini_Indonesia_Indah",
+      "wiki": "id",
+      "distanceM": 188
+    },
+    "jakarta|monumen nasional": {
+      "url": "https://thumb.wikimedia.org/wikipedia/id/thumb/b/b1/Merdeka_Square_Monas_02.jpg/960px-Merdeka_Square_Monas_02.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Monumen Nasional",
+      "source": "https://id.wikipedia.org/wiki/Monumen_Nasional",
+      "wiki": "id",
+      "distanceM": 2
+    },
+    "jakarta|museum taman prasasti": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Tombstones_taman_prasasti.jpg/960px-Tombstones_taman_prasasti.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Museum Taman Prasasti",
+      "source": "https://id.wikipedia.org/wiki/Museum_Taman_Prasasti",
+      "wiki": "id",
+      "distanceM": 96
+    },
+    "jakarta|museum bahari jakarta": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Museum_Bahari_Pintu_Masuk.jpg/960px-Museum_Bahari_Pintu_Masuk.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Museum Bahari",
+      "source": "https://id.wikipedia.org/wiki/Museum_Bahari",
+      "wiki": "id",
+      "distanceM": 32
+    },
+    "jakarta|monumen selamat datang": {
+      "url": "https://thumb.wikimedia.org/wikipedia/id/thumb/3/35/Monumen_Selamat_Datang_%28Maret_2025%29.jpg/960px-Monumen_Selamat_Datang_%28Maret_2025%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Monumen Selamat Datang",
+      "source": "https://id.wikipedia.org/wiki/Monumen_Selamat_Datang",
+      "wiki": "id",
+      "distanceM": 2
+    },
+    "jakarta|museum sasmita loka ahmad yani": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/MuseumSasmitaLoka1.jpg/960px-MuseumSasmitaLoka1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Sasmita Loka Ahmad Yani Museum",
+      "source": "https://en.wikipedia.org/wiki/Sasmita_Loka_Ahmad_Yani_Museum",
+      "wiki": "en",
+      "distanceM": 6
+    },
+    "yogyakarta|taman pintar yogyakarta": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Taman_Pintar_Yogyakarta.jpg/960px-Taman_Pintar_Yogyakarta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Taman Pintar Yogyakarta",
+      "source": "https://en.wikipedia.org/wiki/Taman_Pintar_Yogyakarta",
+      "wiki": "en",
+      "distanceM": 21
+    },
+    "yogyakarta|kampung wisata taman sari": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Tower_in_Taman_Sari%2C_2014-05-19.jpg/960px-Tower_in_Taman_Sari%2C_2014-05-19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Taman Sari (Yogyakarta)",
+      "source": "https://en.wikipedia.org/wiki/Taman_Sari_(Yogyakarta)",
+      "wiki": "en",
+      "distanceM": 57
+    },
+    "yogyakarta|the lost world castle": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Lost_World_Castle.jpg/960px-The_Lost_World_Castle.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "The Lost World Castle",
+      "source": "https://id.wikipedia.org/wiki/The_Lost_World_Castle",
+      "wiki": "id",
+      "distanceM": 46
+    },
+    "yogyakarta|candi ratu boko": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Keraton_Ratu_Boko_2.jpg/960px-Keraton_Ratu_Boko_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Ratu Boko",
+      "source": "https://en.wikipedia.org/wiki/Ratu_Boko",
+      "wiki": "en",
+      "distanceM": 84
+    },
+    "bandung|kebun binatang bandung": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Bandung_Zoo_main_gate.JPG/960px-Bandung_Zoo_main_gate.JPG?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Kebun Binatang Bandung",
+      "source": "https://id.wikipedia.org/wiki/Kebun_Binatang_Bandung",
+      "wiki": "id",
+      "distanceM": 142
+    },
+    "semarang|candi gedong songo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gedong_Songo_III%2C_1211.jpg/960px-Gedong_Songo_III%2C_1211.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Gedong Songo",
+      "source": "https://en.wikipedia.org/wiki/Gedong_Songo",
+      "wiki": "en",
+      "distanceM": 159
+    },
+    "semarang|lawang sewu": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Lawang_sewu_semarang.jpg/960px-Lawang_sewu_semarang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Lawang Sewu",
+      "source": "https://en.wikipedia.org/wiki/Lawang_Sewu",
+      "wiki": "en",
+      "distanceM": 22
+    },
+    "semarang|danau rawa pening": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Rawa_Pening_Central_Java.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "title": "Rawa Pening",
+      "source": "https://id.wikipedia.org/wiki/Rawa_Pening",
+      "wiki": "id",
+      "distanceM": 272
+    },
+    "semarang|tugu muda semarang": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Becak_Tugu_Muda_Semarang_Central_Java.jpg/960px-Becak_Tugu_Muda_Semarang_Central_Java.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Tugu Muda",
+      "source": "https://en.wikipedia.org/wiki/Tugu_Muda",
+      "wiki": "en",
+      "distanceM": 0
+    },
+    "surabaya|kebun binatang surabaya": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Papan_Edukasi_Jalak_Bali.jpg/960px-Papan_Edukasi_Jalak_Bali.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Kebun Binatang Surabaya",
+      "source": "https://id.wikipedia.org/wiki/Kebun_Binatang_Surabaya",
+      "wiki": "id",
+      "distanceM": 57
+    },
+    "surabaya|house of sampoerna": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/House_of_Sampoerna_Mei_2015.jpg/960px-House_of_Sampoerna_Mei_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "House of Sampoerna",
+      "source": "https://en.wikipedia.org/wiki/House_of_Sampoerna",
+      "wiki": "en",
+      "distanceM": 1
+    },
+    "jawa tengah|gunung lawu": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Gunung_lawu.jpg/960px-Gunung_lawu.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Gunung Lawu",
+      "source": "https://id.wikipedia.org/wiki/Gunung_Lawu",
+      "wiki": "id",
+      "distanceM": 394
+    }
+  }
+}
